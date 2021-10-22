@@ -1,0 +1,64 @@
+[{
+  "name": "Dezire 1003",
+  "r_no": "TS08HG1003",
+  "date": "16-OCT-2020",
+  "insurance": "Liberty",
+  "renewal_date": "14-OCT-2022",
+  "color": "White",
+  "type": "DEZIRE"
+},
+{
+  "name": "Dezire 2578",
+  "r_no": "TS07HN2578",
+  "date": "02-DEC-2020",
+  "insurance": "Bajaj",
+  "renewal_date": "01-DEC-2021",
+  "color": "White",
+  "type": "DEZIRE"
+},
+{
+  "name": "Dezire 1006",
+  "r_no": "TS08HG1003",
+  "date": "16-OCT-2020",
+  "insurance": "Liberty",
+  "renewal_date": "14-OCT-2022",
+  "color": "White",
+  "type": "DEZIRE"
+},
+{
+  "name": "Dezire 6436",
+  "r_no": "TS08HG6346",
+  "date": "09-NOV-2020",
+  "insurance": "Bajaj",
+  "renewal_date": "08-NOV-2021",
+  "color": "White",
+  "type": "DEZIRE"
+},
+{
+  "name": "Brezza 1005",
+  "r_no": "TS08HG1005",
+  "date": "07-OCT-2020",
+  "insurance": "Bajaj",
+  "renewal_date": "05-OCT-2022",
+  "color": "White",
+  "type": "BREZZA"
+},
+{
+  "name": "Brezza 2579",
+  "r_no": "TS07HN2579",
+  "date": "16-NOV-2020",
+  "insurance": "ICICI",
+  "renewal_date": "15-NOV-2021",
+  "color": "Gray",
+  "type": "BREZZA"
+},
+{
+  "name": "Brezza 6464",
+  "r_no": "TS08HQ6464",
+  "date": "30-DEC-2020",
+  "insurance": "DIGIT",
+  "renewal_date": "29-DEC-2021",
+  "color": "White",
+  "type": "BREZZA"
+}
+]
