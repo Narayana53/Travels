@@ -26,7 +26,7 @@
   "type": "DEZIRE"
 },
 {
-  "name": "Dezire 6436",
+  "name": "Dezire 6346",
   "r_no": "TS08HG6346",
   "date": "09-NOV-2020",
   "insurance": "Bajaj",
@@ -44,12 +44,12 @@
   "type": "BREZZA"
 },
 {
-  "name": "Brezza 2579",
-  "r_no": "TS07HN2579",
-  "date": "16-NOV-2020",
+  "name": "Brezza 1007",
+  "r_no": "TS08GW1007",
+  "date": "16-NOV-2019",
   "insurance": "ICICI",
-  "renewal_date": "15-NOV-2021",
-  "color": "Gray",
+  "renewal_date": "15-NOV-2023",
+  "color": "White",
   "type": "BREZZA"
 },
 {
@@ -60,5 +60,32 @@
   "renewal_date": "29-DEC-2021",
   "color": "White",
   "type": "BREZZA"
+},
+{
+  "name": "Swift 2778",
+  "r_no": "TS09FJ2778",
+  "date": "09-OCT-2019",
+  "insurance": "Bajaj",
+  "renewal_date": "08-OCT-2023",
+  "color": "White",
+  "type": "SWIFT"
+},
+{
+  "name": "Swift 6344",
+  "r_no": "TS08HM6344",
+  "date": "09-DEC-2019",
+  "insurance": "Bajaj",
+  "renewal_date": "08-DEC-2023",
+  "color": "White",
+  "type": "SWIFT"
+},
+{
+  "name": "Swift 7674",
+  "r_no": "TS08HM7674",
+  "date": "09-DEC-2019",
+  "insurance": "Bajaj",
+  "renewal_date": "08-DEC-2023",
+  "color": "Gray",
+  "type": "SWIFT"
 }
 ]
